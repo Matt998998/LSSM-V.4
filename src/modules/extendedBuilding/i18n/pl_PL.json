@@ -1,0 +1,31 @@
+{
+	"enhancedPersonnelAssignment": {
+		"toggleFittingPersonnel": "Ukryj personel bez odpowiedniego przeszkolenia"
+	},
+	"expansions": {
+		"notBuild": "Jeszcze nie zbudowano"
+	},
+	"fastDispatchChooser": {
+		"noDispatch": "Brak centrum sterowania"
+	},
+	"personnelDemands": {
+		"additional": "Wartości w nawiasach nie obejmują pojazdów w stanie 6.",
+		"demand": "Wymagany personel"
+	},
+	"schoolingSummary": {
+		"all": "Wszystkie kombinacje",
+		"amount": "ilość",
+		"bound": "przeskok",
+		"each": "każdy kurs",
+		"max": "Aktualnie wymagane maksimum",
+		"min": "Aktualnie wymagane minimum",
+		"noSchooling": "Brak szkoleń",
+		"schooling": "szkolenie",
+		"title": "Przegląd personelu"
+	},
+	"vehiclePersonnel": {
+		"vehiclesPersonnelAssigned": "przydzielony",
+		"vehiclesPersonnelCurrent": "bieżący",
+		"vehiclesPersonnelMax": "maksymalny"
+	}
+}
