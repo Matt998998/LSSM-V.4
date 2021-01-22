@@ -1,0 +1,28 @@
+{
+	"description": "Dzięki temu modułowi unikniesz ponownego ładowania gry po naciśnięciu określonych przycisków.",
+	"name": "Asynchroniczne przyciski",
+	"settings": {
+		"buildingTax": {
+			"description": "Zapobiega doładowywaniu, gdy ustalasz koszt własnych cel lub łóżek szpitalnych.",
+			"title": "Absorpcja kosztów cel i łóżek"
+		},
+		"deleteARR": {
+			"description": "Zapobiega przeładowaniu po usunięciu wpisu (ARR)",
+			"title": "Usuń wpisty (ARR)"
+		},
+		"deleteForumPost": {
+			"description": "Zapobiega przeładowaniu, gdy usuwasz post na forum.",
+			"title": "Usuń posty na forum"
+		},
+		"memberlistManageUser": {
+			"description": "Zapobiega przeładowaniu, jeśli wyrzucisz lub zmodyfikujujesz prawa członka sojuszu",
+			"title": "Prawa członków Sojuszu"
+		},
+		"missionPrisoners": {
+			"title": "Więźniowie w oknie misji"
+		},
+		"missionReply": {
+			"title": "Odpowiedzimisji w misji"
+		}
+	}
+}
